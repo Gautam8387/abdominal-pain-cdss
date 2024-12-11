@@ -1,6 +1,6 @@
 # Linguistic-agnostic Intelligent Support Systems for Probable Diagnosis to Aid in Clinical Settings
 
-***Note: This project is still in development and is not yet available for public use.***
+***#### Note: This project is still in development and is not yet available for public use. ###***
 
 
 This project, in collaboration with the Department of Gastroenterology and Human Nutrition at the All India Institute of Medical Sciences (AIIMS), New Delhi, aims to develop a department-specific Clinical Decision Support System (CDSS) tailored to address the unique needs in the Outpatient Department (OPD) setting, specifically for abdominal pain. The system introduces an intelligent CDSS, where a linguistic-agnostic conversational agent engages directly with patients, collecting key responses and extracting information from a protocol-driven questionnaire. This information is then presented along with a probable diagnosis and organ of origin
