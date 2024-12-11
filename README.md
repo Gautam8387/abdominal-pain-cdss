@@ -53,6 +53,7 @@ The project was guided and mentored by the following people:
 
 **External**:
 - [Dr. Govind K Makharia](https://www.aiims.edu/index.php/en/component/content/article/96-gastroenterology-and-human-nutrition/5220-dr-govind-k-makharia_gastro), Professor, Department of Gastroenterology and Human Nutrition, All India Institute of Medical Sciences (AIIMS), New Delhi
+- [Dr Ayush Agrawal](https://www.linkedin.com/in/ayush-agarwal-290862159), Senior Resident, Department of Gastroenterology and Human Nutrition, AIIMS, New Delhi
 
 ## Table of Content
 <!-- Table of Content -->
