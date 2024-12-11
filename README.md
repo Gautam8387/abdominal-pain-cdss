@@ -24,7 +24,8 @@ The project was guided and mentored by the following people:
   - [Augmented Workflow](#augmented-workflow)
   - [Demo](#demo)
     - [Mobile Application](#mobile-application)
-    - [Web Application](#web-application)
+    - [Web Application Diagnosis](#web-application-diagnosis)
+    - [Web Application Emergency Visit](#web-application-emergency-visit)
   - [Team](#team)
   
 
@@ -101,12 +102,13 @@ We have developed a prototype of the system. The prototype is created for mobile
     <video src="./demo/mobile-demo.mp4" width="300" height="600" controls preload></video>
 </p>
 
-### Web Application
+### Web Application Diagnosis
 The web application for a successful diagnosis is shown below:
 <p align=center>
     <video src="./demo/webapp-demo-diagnosis.mp4" width="600" height="300" controls preload></video>
 </p>
 
+### Web Application Emergency Visit
 The web application for a emergency case is shown below:
 <p align=center>
     <video src="./demo/webapp-demo-emergency-visit.mp4" width="600" height="300" controls preload></video>
