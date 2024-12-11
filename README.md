@@ -5,28 +5,70 @@
 
 This project, in collaboration with the Department of Gastroenterology and Human Nutrition at the All India Institute of Medical Sciences (AIIMS), New Delhi, aims to develop a department-specific Clinical Decision Support System (CDSS) tailored to address the unique needs in the Outpatient Department (OPD) setting, specifically for abdominal pain. The system introduces an intelligent CDSS, where a linguistic-agnostic conversational agent engages directly with patients, collecting key responses and extracting information from a protocol-driven questionnaire. This information is then presented along with a probable diagnosis and organ of origin
 
+
+
+## System Architecture & Augmented Workflow
+The system architecture is as follows:
+<p align="center">
+  <img src="./demo/figures/high_level_design.png" width="600" style="background-color: white; padding: 10px; border-radius: 8px;">
+</p>
+
+The augmented workflow with the CDSS is as follows:
+<p align="center">
+  <img src="./demo/figures/aug_workflow.png" width="600" style="background-color: white; padding: 10px; border-radius: 8px;">
+</p>
+
+
+## Demo
+We have developed a prototype of the system. The prototype is created for mobile devices as well as a web application. The video below shows the demo of the system.
+
+### Mobile Application
+<p align=center>
+    <video src="./demo/mobile-demo.mp4" width="300" height="600" controls preload></video>
+</p>
+
+### Web Application Diagnosis
+The web application for a successful diagnosis is shown below:
+<p align=center>
+    <video src="./demo/webapp-demo-diagnosis.mp4" width="600" height="300" controls preload></video>
+</p>
+
+### Web Application Emergency Visit
+The web application for a emergency case is shown below:
+<p align=center>
+    <video src="./demo/webapp-demo-emergency-visit.mp4" width="600" height="300" controls preload></video>
+</p>
+
+
+## Team
+This project is a part of Bachelor's Capstone Project, Department of Computer Science, Ashoka University. The team members are:
+- [Gautam Ahuja](https://www.linkedin.com/in/gautam8387/), Department of Computer Science, Ashoka University
+
 ## Supervisor
 The project was guided and mentored by the following people:
-- [Dr. Rintu Kutum](https://www.ashoka.edu.in/profile/rintu-kutum/), Faculty Fellow, Department of Computer Science, Ashoka University
-- [Dr. Govind K Makharia](https://www.aiims.edu/index.php/en/component/content/article/96-gastroenterology-and-human-nutrition/5220-dr-govind-k-makharia_gastro), Professor, Department of Gastroenterology and Human Nutrition, All India Institute of Medical Sciences (AIIMS), New Delhi
+
+**Internal**: 
+- [Dr. Rintu Kutum](https://www.ashoka.edu.in/profile/rintu-kutum/), Department of Computer Science, Ashoka University
 - [Dr. Anurag Agrawal](https://www.ashoka.edu.in/profile/anurag-agrawal/), Dean, BioSciences and Health Research, Trivedi School of Biosciences, Ashoka University
+
+**External**:
+- [Dr. Govind K Makharia](https://www.aiims.edu/index.php/en/component/content/article/96-gastroenterology-and-human-nutrition/5220-dr-govind-k-makharia_gastro), Professor, Department of Gastroenterology and Human Nutrition, All India Institute of Medical Sciences (AIIMS), New Delhi
 
 ## Table of Content
 <!-- Table of Content -->
 - [Linguistic-agnostic Intelligent Support Systems for Probable Diagnosis to Aid in Clinical Settings](#linguistic-agnostic-intelligent-support-systems-for-probable-diagnosis-to-aid-in-clinical-settings)
+  - [System Architecture \& Augmented Workflow](#system-architecture--augmented-workflow)
+  - [Demo](#demo)
+    - [Mobile Application](#mobile-application)
+    - [Web Application Diagnosis](#web-application-diagnosis)
+    - [Web Application Emergency Visit](#web-application-emergency-visit)
+  - [Team](#team)
   - [Supervisor](#supervisor)
   - [Table of Content](#table-of-content)
   - [Background](#background)
   - [Motivation](#motivation)
   - [Objectives](#objectives)
   - [Project Plan](#project-plan)
-  - [System Architecture](#system-architecture)
-  - [Augmented Workflow](#augmented-workflow)
-  - [Demo](#demo)
-    - [Mobile Application](#mobile-application)
-    - [Web Application Diagnosis](#web-application-diagnosis)
-    - [Web Application Emergency Visit](#web-application-emergency-visit)
-  - [Team](#team)
   
 
 ## Background
@@ -80,42 +122,3 @@ The workflow of the system is as follows:
 <p align="center">
   <img src="./demo/figures/workflow.png" width="600" style="background-color: white; padding: 10px; border-radius: 8px;">
 </p>
-
-## System Architecture
-The system architecture is as follows:
-<p align="center">
-  <img src="./demo/figures/high_level_design.png" width="600" style="background-color: white; padding: 10px; border-radius: 8px;">
-</p>
-
-## Augmented Workflow
-The augmented workflow with the CDSS is as follows:
-<p align="center">
-  <img src="./demo/figures/aug_workflow.png" width="600" style="background-color: white; padding: 10px; border-radius: 8px;">
-</p>
-
-
-## Demo
-We have developed a prototype of the system. The prototype is created for mobile devices as well as a web application. The video below shows the demo of the system.
-
-### Mobile Application
-<p align=center>
-    <video src="./demo/mobile-demo.mp4" width="300" height="600" controls preload></video>
-</p>
-
-### Web Application Diagnosis
-The web application for a successful diagnosis is shown below:
-<p align=center>
-    <video src="./demo/webapp-demo-diagnosis.mp4" width="600" height="300" controls preload></video>
-</p>
-
-### Web Application Emergency Visit
-The web application for a emergency case is shown below:
-<p align=center>
-    <video src="./demo/webapp-demo-emergency-visit.mp4" width="600" height="300" controls preload></video>
-</p>
-
-
-## Team
-This project is a part of Bachelor's Capstone Project, Department of Computer Science, Ashoka University. The team members are:
-- [Gautam Ahuja](https://www.linkedin.com/in/gautam8387/)
-
